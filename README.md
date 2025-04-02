@@ -29,12 +29,6 @@ HIERARCHICAL-CRACK-CLASSIFICATION/
 ```
 CRACK-IMAGES
 ├── crack_images/              # Dataset directory
-│   ├── crack/                 # Images with cracks
-│   │   ├── delamination/      # Delamination type cracks
-│   │   ├── spalling/          # Spalling type cracks
-│   │   └── surface_crack/     # Surface crack images
-│   └── no_crack/              # Images without cracks
-└── augmented_crack_images/    # Augmented Dataset directory
     ├── crack/                 # Images with cracks
     │   ├── delamination/      # Delamination type cracks
     │   ├── spalling/          # Spalling type cracks
