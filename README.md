@@ -96,7 +96,7 @@ CRACK-IMAGES
 
 ### Dataset Preparation
 
-1. Extract the provided `crack-images.zip` file to get the dataset
+1. The dataset is in the `crack-images` folder
 2. Ensure the dataset is organized as follows:
    - `data/crack/delamination/` - Delamination crack images
    - `data/crack/spalling/` - Spalling crack images
